@@ -1,14 +1,14 @@
 # Conta Bancária
 
-Projeto inical, exercício para entrega (AC1)
-
 ## 🚀 Começando
+
+Projeto Teste. Utiliza de Constutor e Metódo para criar uma conta bancária que: armazena,subtrai,soma e devolve saldo.
+
+Após a quinta consulta de saldo será tarifado da conta 0,10 reais.
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-Qualquer computador e o arquivo do software para download
+Java (projeto não utiliza bibliotecas externas (import))
 
 ### 🔧 Instalação
 
@@ -16,14 +16,14 @@ Projeto apenas para fins de estudo, sem aplicação prática planejada
 
 ## 🛠️ Construído com
 
-Ferramentas utilizadas e bibliotecas
-
 IDE Eclipse
+
+Java
 
 ## 📌 Versão
 
-**Versão 1.0** - *Todo o Código* *data 25/09/24*
+**Versão 1.0** - *Projeto Completo* *data 25/09/24*
 
 ## ✒️ Autores
 
-**Henrique Serafim Albano** - *Código inicial* - Etapa 6
+**Henrique Serafim Albano** - *Código e Documentação* - Etapa 6
